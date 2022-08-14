@@ -1,4 +1,4 @@
-# Genetic Algorithm Car Project
+# Genetic Algorithm | Self Driving Car Project
 
 This is my First try in AI, Using Java, I built my own Neural Network and then used Genetic Algorithm to teach a Car how to drive in a random generated Maze.
 
